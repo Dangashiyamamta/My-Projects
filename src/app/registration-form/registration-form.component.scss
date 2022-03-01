@@ -1,0 +1,64 @@
+.registration-form{
+    text-align: center;
+    background-color: #fff;
+}
+.logo{
+    height: 84px;
+    width: 84px;
+}
+.button{
+    background-color: brown;
+    height: 20px;
+    width: 200px;
+}
+.title{
+    font-family: Trade Gothic LT Bold,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+color: #451400;}
+.account{
+    color:#786259;
+    font-size: 16px;
+    }
+    .textbox{
+        border:none ;
+        width: 21%;
+        border-bottom: 1px solid rgba(69,20,0,.2);
+        font-size: 1em;
+        padding-top: 20px;
+    }
+    .text{
+        font-variant-numeric: tabular-nums;
+        unicode-bidi: isolate;
+        color: #786259;
+        padding-right: 220px;
+    }
+ .texttype{
+    font-variant-numeric: tabular-nums;
+    unicode-bidi: isolate;
+    text-align: center;
+    color: #786259;
+ }
+ .subclass{
+     font-size: .875em;
+     width: 90%;
+     color: #786259;
+ }
+ .text-label {
+     
+ }
+ .no-radio {
+     margin-left: 87px;
+ }
+.data{
+    color: rebeccapurple;
+    font-style: oblique;
+}
+td:first-child {
+    font-size: large;
+    color:aqua;
+
+}
+td:last-child {
+    color: blueviolet;
+    font-size: larger;
+    font-style: oblique;
+}
